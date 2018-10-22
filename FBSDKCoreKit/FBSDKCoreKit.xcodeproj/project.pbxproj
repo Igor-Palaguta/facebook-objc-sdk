@@ -3127,6 +3127,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81A4A6021D19BE0400D5BF66 /* FBSDKCoreKit-Dynamic.xcconfig */;
 			buildSettings = {
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
 				PRODUCT_NAME = "FBSDKCoreKit-Dynamic";
 			};
 			name = Debug;
@@ -3135,6 +3136,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81A4A6021D19BE0400D5BF66 /* FBSDKCoreKit-Dynamic.xcconfig */;
 			buildSettings = {
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
 				PRODUCT_NAME = "FBSDKCoreKit-Dynamic";
 			};
 			name = Release;
